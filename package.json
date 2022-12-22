@@ -18,7 +18,7 @@
     "fcm-node": "^1.5.2",
     "get-image-urls": "^1.0.5",
     "is-empty": "^1.2.0",
-    "jsonwebtoken": "^8.5.0",
+    "jsonwebtoken": "^9.0.0",
     "link-preview": "^1.0.0",
     "link-preview-node": "^1.0.7",
     "linkpreview-for-node": "^1.1.1",
